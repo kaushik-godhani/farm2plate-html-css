@@ -215,7 +215,6 @@
   font-family: var(--font-inter);
 }
 
-
 .farm2 {
   margin: 0;
   flex: 1;
@@ -233,7 +232,7 @@
   position: absolute;
   margin: 0 !important;
   right: -3.7rem;
-  bottom: -2.0rem;
+  bottom: -2rem;
   font-size: var(--font-size-381xl);
   font-family: var(--font-segoe-ui);
   display: inline-block;
@@ -769,7 +768,7 @@
   padding: 2.437rem 1.812rem 0 1.75rem;
   box-sizing: border-box;
   gap: 10.687rem;
-  background-image: url(./public/image/bg.png);
+  background-image: url(./image/bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
